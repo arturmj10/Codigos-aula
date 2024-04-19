@@ -1,5 +1,5 @@
 #ler arquivos - pegar um arquivo txt e dar um print nele
-arquivo = 'ListaDesafio.txt'
+arquivo = 'C:/Users/artur/OneDrive/Área de Trabalho/arquivos/1 fase/Algoritmos e Programacao/Codigos-aula/Desafio/ListaDesafio.txt'
 lista = []
 
 with open(arquivo, 'r', encoding="utf-8") as file:
@@ -14,3 +14,5 @@ lista.sort()
 
 for i, post in enumerate(lista):
     print(f'{i+1}- {post}')
+    
+print("Diretório de trabalho atual:", os.getcwd())
