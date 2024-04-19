@@ -14,7 +14,3 @@ lista.sort()
 
 for i, post in enumerate(lista):
     print(f'{i+1}- {post}')
-
-"""for indice, linha in enumerate(data):
-    print(indice +1, linha)"""
-    
