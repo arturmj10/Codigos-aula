@@ -1,0 +1,100 @@
+São Paulo	São Paulo	12 396 372
+Rio de Janeiro	Rio de Janeiro	6 775 561
+Distrito Federal	Brasília	3 094 325
+Bahia Bahia	Salvador	2 900 319
+Ceará	Fortaleza	2 703 391
+Minas Gerais	Belo Horizonte	2 530 701
+Amazonas	Manaus	2 255 903
+Paraná	Curitiba	1 963 726
+Pernambuco	Recife	1 661 017
+Goiás	Goiânia	1 555 626
+Pará Pará	Belém	1 506 420
+Rio Grande do Sul	Porto Alegre	1 492 530
+São Paulo	Guarulhos	1 404 694
+São Paulo	Campinas	1 223 237
+Maranhão	São Luís	1 115 932
+Rio de Janeiro	São Gonçalo	1 098 357
+Alagoas	Maceió	1 031 597
+Rio de Janeiro	Duque de Caxias	929 449
+Mato Grosso do Sul	Campo Grande	916 001
+Rio Grande do Norte	Natal	896 708
+Piauí	Teresina	871 126
+São Paulo	São Bernardo do Campo	849 874
+Paraíba	João Pessoa	825 796
+Rio de Janeiro	Nova Iguaçu	825 388
+São Paulo	São José dos Campos	737 310
+São Paulo	Santo André	723 889
+São Paulo	Ribeirão Preto	720 116
+Pernambuco	Jaboatão dos Guararapes	711 330
+Minas Gerais	Uberlândia	706 597
+São Paulo	Osasco	701 428
+São Paulo	Sorocaba	695 328
+Minas Gerais	Contagem	673 849
+Sergipe	Aracaju	672 614
+Bahia Bahia	Feira de Santana	624 107
+Mato Grosso	Cuiabá	623 614
+Santa Catarina	Joinville	604 708
+Goiás	Aparecida de Goiânia	601 844
+Paraná	Londrina	580 870
+Minas Gerais	Juiz de Fora	577 532
+Rondônia	Porto Velho	548 952
+Pará Pará	Ananindeua	540 410
+Espírito Santo	Serra	536 765
+Rio Grande do Sul	Caxias do Sul	523 716
+Amapá	Macapá	522 357
+Rio de Janeiro	Niterói	516 981
+Santa Catarina	Florianópolis	516 524
+Rio de Janeiro	Belford Roxo	515 239
+Rio de Janeiro	Campos dos Goytacazes	514 643
+Espírito Santo	Vila Velha	508 655
+São Paulo	Mauá	481 725
+Rio de Janeiro	São João de Meriti	473 385
+São Paulo	São José do Rio Preto	469 173
+São Paulo	Mogi das Cruzes	455 587
+Minas Gerais	Betim	450 024
+Roraima	Boa Vista	436 591
+Paraná	Maringá	436 472
+São Paulo	Santos	433 991
+São Paulo	Diadema	429 550
+São Paulo	Jundiaí	426 935
+Acre	Rio Branco	419 452
+Minas Gerais	Montes Claros	417 478
+Paraíba	Campina Grande	413 830
+São Paulo	Piracicaba	410 275
+São Paulo	Carapicuíba	405 375
+Goiás	Anápolis	396 526
+Pernambuco	Olinda	393 734
+Espírito Santo	Cariacica	386 495
+São Paulo	Bauru	381 706
+São Paulo	Itaquaquecetuba	379 082
+São Paulo	São Vicente	370 839
+Espírito Santo	Vitória	369 534
+Pernambuco	Caruaru	369 343
+Ceará	Caucaia	368 918
+Santa Catarina	Blumenau	366 418
+Pernambuco	Petrolina	359 372
+Paraná	Ponta Grossa	358 838
+São Paulo	Franca	358 539
+Rio Grande do Sul	Canoas	349 728
+Rio Grande do Sul	Pelotas	343 826
+Bahia Bahia	Vitória da Conquista	343 643
+Minas Gerais	Ribeirão das Neves	341 415
+Minas Gerais	Uberaba	340 277
+Pernambuco	Paulista	336 919
+São Paulo	Praia Grande	336 454
+Paraná	Cascavel	336 073
+Paraná	São José dos Pinhais	334 620
+São Paulo	Guarujá	324 977
+São Paulo	Taubaté	320 820
+Tocantins	Palmas	313 349
+São Paulo	Limeira	310 783
+Bahia Bahia	Camaçari	309 208
+Pará Pará	Santarém	308 339
+Rio de Janeiro	Petrópolis	307 144
+Rio Grande do Norte	Mossoró	303 792
+São Paulo	Suzano	303 397
+São Paulo	Taboão da Serra	297 528
+Mato Grosso	Várzea Grande	290 383
+São Paulo	Sumaré	289 875
+Pará Pará	Marabá	287 664
+Rio Grande do Sul	Gravataí	285 564
