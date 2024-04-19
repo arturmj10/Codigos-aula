@@ -14,3 +14,5 @@ lista.sort()
 
 for i, post in enumerate(lista):
     print(f'{i+1}. {post}')
+    
+#Lembrando que eu usei uma lista qualquer só pra fazer a mesma coisa
