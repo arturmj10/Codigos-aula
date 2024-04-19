@@ -1,5 +1,5 @@
 #ler arquivos - pegar um arquivo txt e dar um print nele
-arquivo = 'ListaAlgoritmos.txt'
+arquivo = 'ListaDesafio.txt'
 lista = []
 
 with open(arquivo, 'r', encoding="utf-8") as file:
