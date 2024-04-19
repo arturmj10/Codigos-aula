@@ -13,4 +13,4 @@ with open(arquivo, 'r', encoding="utf-8") as file:
 lista.sort()
 
 for i, post in enumerate(lista):
-    print(f'{i+1}- {post}')
+    print(f'{i+1}. {post}')
