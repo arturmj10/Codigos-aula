@@ -20,7 +20,7 @@ print(lista)
 lista.append('Império Romano')
 print(lista)
 
-lista.remove(2)
+lista.remove('Queda do muro de Berlin')
 print(lista)
 
 del lista[3]
