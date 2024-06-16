@@ -1,0 +1,2 @@
+Entrega aula 18
+https://github.com/arturmj10/Codigos-aula/blob/main/AtividadeAulaVetor/Atividade.py
