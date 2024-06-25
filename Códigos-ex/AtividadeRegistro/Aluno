@@ -1,0 +1,56 @@
+class Aluno():
+    def __init__(self, matricula, nome, mediaFinal) -> None:
+        self.matricula = matricula
+        self.nome = nome
+        self.mediaFinal = mediaFinal
+        
+    def __str__(self):
+        return f"Nome: {self.nome} | Média Final: {self.mediaFinal:.2f}"
+        
+class Turma():
+    def __init__(self) -> None:
+        self.alunos = []
+        
+    def addAluno(self, aluno):
+        if isinstance(aluno, Aluno):
+            self.alunos.append(aluno)
+        else:
+            raise TypeError("O argumento deve ser uma instância da classe Aluno")
+    
+    def imprimeLista(self):
+        print("Alunos: ")
+        for aluno in self.alunos:
+            print(aluno)
+    
+    def mediaGeralImprimir(self):
+        mediaGeral = sum(aluno.mediaFinal for aluno in self.alunos) / len(self.alunos)
+        
+        return f'mediaGeral: {mediaGeral}'
+    
+turma = Turma()
+    
+aluno0 = Aluno(1, "Alice", 8.5)
+aluno1 = Aluno(2, "Bruno", 7.2)
+aluno2 = Aluno(3, "Carlos", 9.0)
+aluno3 = Aluno(4, "Daniela", 6.8)
+aluno4 = Aluno(5, "Eduardo", 7.9)
+aluno5 = Aluno(6, "Fernanda", 8.0)
+aluno6 = Aluno(7, "Gustavo", 7.5)
+aluno7 = Aluno(8, "Helena", 8.7)
+aluno8 = Aluno(9, "Isabela", 6.9)
+aluno9 = Aluno(10, "João", 7.4)
+
+turma.addAluno(aluno0)
+turma.addAluno(aluno1)
+turma.addAluno(aluno2)
+turma.addAluno(aluno3)
+turma.addAluno(aluno4)
+turma.addAluno(aluno5)
+turma.addAluno(aluno6)
+turma.addAluno(aluno7)
+turma.addAluno(aluno8)
+turma.addAluno(aluno9)
+
+
+turma.imprimeLista()
+print(turma.mediaGeralImprimir())
