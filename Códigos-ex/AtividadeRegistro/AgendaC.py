@@ -10,7 +10,7 @@ class Contato:
 
 class Agenda:
     def __init__(self):
-        self.contatos = [None] * 50  # Initialize with None instead of np.zeros
+        self.contatos = [None] * 50
 
     def cadastrarContato(self):
         print("--- Cadastrar Contato ---")
