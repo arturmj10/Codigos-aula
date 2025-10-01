@@ -6,6 +6,9 @@ class Pessoa():
         self.peso = peso
         self.idade = idade
     
+    def __str__(self) -> str:
+        return self.nome
+    
     def apresentacao(self):
         return f'Prazer, meu nome é {self.nome}'
     
@@ -25,10 +28,24 @@ def cadastrar():
     pass
 
 def listar():
-    pass
+    print("Listagem Pessoas")
+    for indice, pessoa, in enumerate(listaPessoa, start=0):
+        print(f'{indice}. {pessoa}')
+    
 
 def alterar():
-    pass
+    print("Alteração de Pessoas")
+    listar()
+    
+    try:
+        aux = int(input("Digite o numero da pessoa que você deseja alterar: "))
+        if 0  <= aux < len(listaPessoa):
+            nomeNovo = input("Digite o novo nome: ")
+            idadeNova = int(input("Digite a nova idade: "))
+            listaPessoa[aux].nome = nomeNovo
+            listaPessoa[aux].idade = idadeNova
+    except ValueError:
+        print("Entrada invalida")
 
 def remover():
     pass
@@ -58,4 +75,4 @@ def MenuPrincipal():
         else:
             print("Digite um valor válido")
             
-        
+MenuPrincipal()

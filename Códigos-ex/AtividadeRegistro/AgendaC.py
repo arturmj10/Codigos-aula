@@ -11,7 +11,7 @@ class Contato:
 class Agenda:
     def __init__(self):
         self.contatos = [None] * 50
-
+        print(f"agenda: {self.contatos}")
     def cadastrarContato(self):
         print("--- Cadastrar Contato ---")
         for i in range(len(self.contatos)):
